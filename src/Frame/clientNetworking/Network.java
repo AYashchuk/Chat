@@ -14,7 +14,7 @@ import java.util.ArrayList;
 import java.util.Scanner;
 
 /**
- * Created by admin on 10.11.2014.
+ * @author Yashchuk A.F.
  */
 public class Network extends Thread{
    private static PrintWriter out;

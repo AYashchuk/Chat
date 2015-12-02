@@ -7,7 +7,7 @@ import java.text.SimpleDateFormat;
 import java.util.Date;
 
 /**
- * Created by admin on 29.11.2014.
+ * @author Yashchuk A.F.
  */
 public class Text extends JTextArea {
     private static Text instance = new Text();

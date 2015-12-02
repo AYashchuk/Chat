@@ -5,7 +5,7 @@ import java.net.Socket;
 import java.util.Scanner;
 
 /**
- * Created by admin on 25.11.2014.
+ * @author Yashchuk A.F.
  */
 public class ClientThead extends Thread implements AutoCloseable{
 

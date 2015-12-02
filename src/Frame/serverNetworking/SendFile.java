@@ -5,7 +5,7 @@ import java.net.ServerSocket;
 import java.net.Socket;
 
 /**
- * Created by admin on 25.11.2014.
+ * @author Yashchuk A.F.
  */
 public  class SendFile extends Thread {
     File file;

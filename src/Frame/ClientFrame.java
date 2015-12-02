@@ -11,7 +11,7 @@ import java.net.UnknownHostException;
 import java.text.SimpleDateFormat;
 
 /**
- * Created by admin on 11.11.2014.
+ * @author Yashchuk A.F.
  */
 public class ClientFrame extends JFrame  {
     private static boolean isServerRun = false;

@@ -12,7 +12,7 @@ import java.util.List;
 import java.util.Scanner;
 
 /**
- * Created by admin on 10.11.2014.
+ * @author Yashchuk A.F.
  */
 public class ServerRun extends Thread implements AutoCloseable{
     public  int getPORT() {

@@ -4,14 +4,11 @@ import Frame.clientNetworking.Network;
 import Frame.serverNetworking.ServerRun;
 
 import javax.swing.*;
-import java.awt.*;
 import java.io.File;
 import java.io.IOException;
-import java.net.InetAddress;
-import java.net.Socket;
 
 /**
- * Created by admin on 29.11.2014.
+ * @author Yashchuk A.F.
  */
 public class Adapter {
     private Network nt  = null;
